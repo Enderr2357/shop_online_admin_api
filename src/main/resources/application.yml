@@ -1,6 +1,6 @@
 spring:
   application:
-    name: social-admin-api
+    name: shop_online-admin-api
   profiles:
     active: @spring.profiles.active@
   mvc:
